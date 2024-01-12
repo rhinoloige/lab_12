@@ -1,0 +1,12 @@
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\bin\Debug\net7.0\RazorModels.deps.json
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\bin\Debug\net7.0\RazorModels.dll
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\bin\Debug\net7.0\RazorModels.pdb
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\obj\Debug\net7.0\RazorModels.csproj.AssemblyReference.cache
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\obj\Debug\net7.0\RazorModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\obj\Debug\net7.0\RazorModels.AssemblyInfoInputs.cache
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\obj\Debug\net7.0\RazorModels.AssemblyInfo.cs
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\obj\Debug\net7.0\RazorModels.csproj.CoreCompileInputs.cache
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\obj\Debug\net7.0\RazorModels.dll
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\obj\Debug\net7.0\refint\RazorModels.dll
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\obj\Debug\net7.0\RazorModels.pdb
+C:\Users\rhino\OneDrive\Рабочий стол\la12\lab12-master\RazorModesls\obj\Debug\net7.0\ref\RazorModels.dll
